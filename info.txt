@@ -1,0 +1,12 @@
+VGG16 -- VGG16 model Architecture
+VGG19 -- VGG19 model Architecture
+ResNet50 -- ResNet50 model Architecture
+TrainDataGenerator -- Dataset Splitting using image data generator
+TrackBar -- HSV trackbar 
+ObjectPathTracking -- Track Centre of object and draw path of travelling
+LeNet5 -- LeNet5 model Architecture
+LabellingToData -- creaing Pickle
+ImageAugmentation -- Image Augmentation
+ALPHABETLIVE -- A-Z final Prediction
+DatasetDT -- Distance Transformation after extracting skin
+final_skin_optimized -- Skin pixel according to research Paper algo
