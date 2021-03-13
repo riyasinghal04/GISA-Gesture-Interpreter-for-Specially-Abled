@@ -1,2 +1,0 @@
-# GISA-Gesture-Interpreter-for-Specially-Abled
-It is observed that specially abled people are unable to communicate properly due to the lack of knowledge about their sign language amongst common people. This system aims at encountering this problem and build a human responsive system that can aid specially abled (blind, deaf and aphonic) people by interpreting the sign language (i.e. hand gestures).
